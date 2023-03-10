@@ -1,0 +1,19 @@
+
+@media (max-width: 425px) {
+    .conteudo {
+        max-width: 275px;
+    }
+    .conteudo .qr-code {
+        max-width: 275px;
+    }
+}
+@media (max-width: 375px) {
+    .conteudo {
+        max-width: 275px;
+        
+    }
+    .conteudo .qr-code {
+        max-width: 275px;
+        max-height: 300px;
+    }
+}
